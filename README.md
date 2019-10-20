@@ -23,6 +23,13 @@ THE CHALLENGE
 
 ### Development:
 
+https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png
+
+https://github.com/Nanita46/XYZ-Code/blob/master/drone.png
+
+https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png
+
+
 Se plantearon varias ideas de desarrollo, optando por la utilizacion de Android Studio en combinacion con python y ros, tabajando sobre la plataforma Ubuntu.
 
 Para el diseño del controlador se adptaron algunos códigos, que habian sido utilizados durante clase de inteligencia artificial con anterioridad, alojados en el repositorio https://github.com/dsapandora/ar_drone_wrapper, 
@@ -33,7 +40,7 @@ La aplicacion principal se esta desarrollando en python
 
 Crear un controlador para pilotar una nave no tripulada, para ser utilizada desde una aplicacion instalada en un dispositivo movil, que permita al astronauta controlar dicha nave de forma remota, evitando asi poner en riesgo su vida y de la cual se podra obtener informacion relevante, tanto de su recorrido a traves de las imagenes obtenidas con la camara, como de su datos de navegacion (%bateria, altitude, movimiento sobre los ejes x, y, z, etc.) que son necesarios para evidenciar mal funcionamiento y evitar la perdida del equipo.
 
-### Arquitectura:
+### System Architecture:
 
 <p align="center">
   <img width="660" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/diagrama_arquitectura.jpg">
@@ -44,6 +51,15 @@ Crear un controlador para pilotar una nave no tripulada, para ser utilizada desd
 La aplicacion consta de dos partes escenciales, la primera es la app instalada en el dispositivo movil que se encarga de dar las instruciones de movimiento, la segunda el servidor que recibe dichas instrucciones, las comunica al drone y espera de regreso los datos (navegacion e imagen) emitidos, para proceder a almacenar los datos de navegacion y retransmitir la imagen a la app de la cual hace uso el astronauta, para realizar un optimo recorrido del area.
 
 Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos moviles, ya que tambien puede ser ejecutar en un computador normal.
+
+
+ <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/drone.png">
+ 
+ <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png">
+
+
+
+
 
 
 ### Recursos:
