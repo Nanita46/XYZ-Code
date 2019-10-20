@@ -6,7 +6,7 @@ THE CHALLENGE
 > Create an app to pilot an unmanned aerial system (UAS), such as a NASA space drone, utilizing the 6-axis gyro sensor within a smartphone or tablet. The piloting app can be combined with multiple sensors for flight precision and the best maneuverable flight techniques for off-Earth planetary drones.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/xyz-icono.jpg">
+  <img width="460" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/xyz-icon-20.jpg">
 </p>
 
 
@@ -41,7 +41,7 @@ Crear un controlador para pilotar una nave no tripulada, para ser utilizada desd
 ### Arquitectura:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/spaceapp.png">
+  <img width="460" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/diagrama_arquitectura.jpg">
 </p>
 
 ### Como funciona:
