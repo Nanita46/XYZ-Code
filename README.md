@@ -54,4 +54,9 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 - Flask 1.2
 - Sublime Text
 
+### Whats next?
+
+### Challenges
+
+### Reference
 
