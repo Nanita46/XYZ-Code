@@ -21,7 +21,7 @@ una aplicacion desarrollada en dispositivos mobiles para la solucion de misiones
 
 ### ¿Que es XYZ?
 
-**XYZ** es una aplicacion que proporciona le brinda al ser humano la facilidad para poder pilotear una aeronave no tripulada (drone) desde la comodidad de tu celular sin necesidad de poner vidas en riesgos, lo que nos brinda seguridad, control y soporte en la investigacion de los planetas en el universo.Con la ayuda de los sensores que utiliza el dron sera capas de transmitir imagen, video e informacion valiosa de navegacion frente a las adversidades de el clima en la cual estara presente en el desarrollo de la investigación. 
+**XYZ** es una aplicacion que le brinda al ser humano la facilidad para poder pilotear una aeronave no tripulada (drone) desde la comodidad de tu celular sin necesidad de poner vidas en riesgos, lo que nos brinda seguridad, control y soporte en la investigacion de los planetas en el universo. Con la ayuda de los sensores que utiliza el dron sera capas de transmitir imagen, video e informacion valiosa de navegacion frente a las adversidades de el clima en el cual estára mientras desarrolla la investigación. 
 
 
 Section 1: What is Delta Mesh?
