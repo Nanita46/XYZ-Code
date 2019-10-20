@@ -48,14 +48,14 @@ The application consists of two essential parts: the first one is the app instal
 
 It should be noted that this application is not limited to mobile devices, given that it can also be run on a normal computer.
 
-### Manejo de la comunicacion entre dispositivos
+### Management of communication between devices
 ***
 
-Para realizar la comunicacion entre el dispositivo movil y el dron de la forma planteada en el proyecto, es necesario hacer uso de las redes mesh propuestas por el equipo DeltaProtocol, ganador del Space Apps Challenge 2018, cuya solucion fue plasmada de la siguiente manera:
+The communication between the mobile device and the drone, it is necessary to make use of the mesh networks proposed by the DeltaProtocol team, winner of the Space Apps Challenge 2018, whose solution was expressed as follows:
 
-"El sistema se basará en una red de malla construida siguiendo el protocolo LoRaWAN. Este protocolo permite la transmisión de datos a baja velocidad con un largo alcance y bajo consumo de energía. La red de malla está diseñada para funcionar como la red troncal que soportará las otras partes de la red de los sensores.
+"The system will be based on a mesh network built following the LoRaWAN protocol. This protocol enables slow speed data transmission with a long range and low power consumption. The mesh network is designed to function as the backbone that will support the other parts of the sensors’ net."
 
-Elegimos una red de malla por dos razones fundamentales. Primero, una red de malla puede ser reconfigurada dinámicamente. Esto permite que la red continúe funcionando incluso si uno de los transceptores falla, casi sin tiempo de inactividad. Esta capacidad es extremadamente importante cuando se trabaja en entornos desafiantes como Marte. En segundo lugar, una red de malla es escalable. Requiere bajos costos de instalación y permite una fácil expansión y servicio por parte de los astronautas."
+"We chose a mesh network for two fundamental reasons. First, a mesh network may be dynamically reconfigured. This enables the network to continue working even if one of the transceivers crashes, with almost no downtime. This capability is extremely important when working in challenging settings such as Mars. Second, a mesh network is scalable. It requires low setup costs and allows for easy expansion and servicing by astronauts."
 
 [![Movimientos del Dron]( <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/XYZMOV.png">)](https://ak1.picdn.net/shutterstock/videos/9350111/preview/stock-footage-drone-yaw-left-right-quadcopter-beginner-guide-learn-to-fly-drones-yaw-rotates-the.mp4)
 
@@ -81,7 +81,8 @@ Elegimos una red de malla por dos razones fundamentales. Primero, una red de mal
 ### Challenges
 ***
 Implementing the application for its possible use on any device. Further code development to add improvements.
-La adaptacion del drone a las diferetes condiciones atmosfericas de cada planeta,quedara bajo la responsabilidad del astronauta, quien debera decidir que tipo de equipo utilizar según las diferentes variables existentes en el entorno. 
+The adaptation of the drone to the different atmospheric conditions of each planet will remain under the responsibility of the astronaut, who must decide and configure what type of equipment to use according to the different variables existing in the environment.
+
 
 ### Reference
 > [Online]https://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_sistema_solar [visited 20/10/2019]
