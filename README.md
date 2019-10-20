@@ -48,10 +48,10 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 
 ### Recursos:
 
--Android Studio                                                                                                                          -Python3 librerias (numpy, pygame, imutils, pip3)
--Java
--Ros Melodic
--Flask 1.2
--Sublime Text
+- Android Studio                                                                                                                          - Python3 librerias (numpy, pygame, imutils, pip3)
+- Java
+- Ros Melodic
+- Flask 1.2
+- Sublime Text
 
 
