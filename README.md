@@ -10,7 +10,7 @@ THE CHALLENGE
 </p>
 
 
-### Objetivos
+### Project objective 
 
 <p style="text-align: justify;">Una aplicacion desarrollada en dispositivos moviles para la solucion de misiones no tripuladas en drones, lo cual seran piloteados remotamente a traves de la aplicación.</p>
 
@@ -59,4 +59,4 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 ### Challenges
 
 ### Reference
-
+> [Online]https://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_sistema_solar[visited 20/10/2019]
