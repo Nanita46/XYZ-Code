@@ -46,9 +46,9 @@ La aplicacion consta de dos partes escenciales, la primera es la app instalada e
 Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos moviles, ya que tambien puede ser ejecutar en un computador normal.
 
 
- <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/drone.png">
+<p align="center"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/drone.png"></p>
  
- <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/droid.png">
+<p align="center"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/droid.png"></p>
 
 
 
