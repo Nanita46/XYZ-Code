@@ -48,6 +48,15 @@ The application consists of two essential parts: the first one is the app instal
 
 It should be noted that this application is not limited to mobile devices, given that it can also be run on a normal computer.
 
+### Manejo de la comunicacion entre dispositivos
+***
+
+Para realizar la comunicacion entre el dispositivo movil y el dron de la forma planteada en el proyecto, es necesario hacer uso de las redes mesh propuestas por el equipo DeltaProtocol, ganador del Space Apps Challenge 2018, cuya solucion fue plasmada de la siguiente manera:
+
+"El sistema se basará en una red de malla construida siguiendo el protocolo LoRaWAN. Este protocolo permite la transmisión de datos a baja velocidad con un largo alcance y bajo consumo de energía. La red de malla está diseñada para funcionar como la red troncal que soportará las otras partes de la red de los sensores.
+
+Elegimos una red de malla por dos razones fundamentales. Primero, una red de malla puede ser reconfigurada dinámicamente. Esto permite que la red continúe funcionando incluso si uno de los transceptores falla, casi sin tiempo de inactividad. Esta capacidad es extremadamente importante cuando se trabaja en entornos desafiantes como Marte. En segundo lugar, una red de malla es escalable. Requiere bajos costos de instalación y permite una fácil expansión y servicio por parte de los astronautas."
+
 [![Movimientos del Dron]( <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/XYZMOV.png">)](https://ak1.picdn.net/shutterstock/videos/9350111/preview/stock-footage-drone-yaw-left-right-quadcopter-beginner-guide-learn-to-fly-drones-yaw-rotates-the.mp4)
 
 <p align="center"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/drone.png"></p>
@@ -72,6 +81,7 @@ It should be noted that this application is not limited to mobile devices, given
 ### Challenges
 ***
 Implementing the application for its possible use on any device. Further code development to add improvements.
+La adaptacion del drone a las diferetes condiciones atmosfericas de cada planeta,quedara bajo la responsabilidad del astronauta, quien debera decidir que tipo de equipo utilizar según las diferentes variables existentes en el entorno. 
 
 ### Reference
 > [Online]https://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_sistema_solar [visited 20/10/2019]
