@@ -10,7 +10,7 @@ THE CHALLENGE
 </p>
 
 
-## Objetivos
+### Objetivos
 
 
 una aplicacion desarrollada en dispositivos mobiles para la solucion de misiones no tripuladas en drones, lo cual seran piloteados remotamente a traves de la aplicación.
@@ -19,6 +19,8 @@ una aplicacion desarrollada en dispositivos mobiles para la solucion de misiones
   <img width="560" height="300" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
 </p>
 
+### ¿Que es XYZ?
 
+**XYZ** proporciona la herramientas para poder pilotear una aeronave no tripulada desde la comodidad de tu celular sin necesidad de poner vidas en riesgos.
 
 
