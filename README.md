@@ -23,13 +23,6 @@ THE CHALLENGE
 
 ### Development:
 
-https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png
-
-https://github.com/Nanita46/XYZ-Code/blob/master/drone.png
-
-https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png
-
-
 Se plantearon varias ideas de desarrollo, optando por la utilizacion de Android Studio en combinacion con python y ros, tabajando sobre la plataforma Ubuntu.
 
 Para el diseño del controlador se adptaron algunos códigos, que habian sido utilizados durante clase de inteligencia artificial con anterioridad, alojados en el repositorio https://github.com/dsapandora/ar_drone_wrapper, 
@@ -55,7 +48,7 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 
  <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/drone.png">
  
- <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png">
+ <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png"><img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/droid.png">
 
 
 
