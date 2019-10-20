@@ -53,7 +53,11 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 
 
 
+que la informacion del sensor del gyroscopio del dispositivo mobil sea enviado a un servidor, ese envio de informacion la aplicacion debe estar conectado directo al servidor, durante la fase de prueba usando el android estudio del dispositivo mobil al android estudio luego de eso del servidor la informacion se transfiere al dron mediante el uso de datos del gyroscopio al dron mediante el uso ROS y el dron lo procesaria de acuerdo a las rutinas que hemos practicado con el dron. flask interviene en la transmision de datos del servidor con el dron.
 
+por el momento se registraron los movimientos de mover a la izquierda, derecha, arriba y abajo a futuro se espera agregar mas mensajes como el pitcheo que tiene o sus giros sobre su propio eje.
+
+la direccion de red  es a la que se le transmite los datos. estos datos son transmitidos a traves del metodo cmdvel que son los que se usan para realizar los movimientos del dron.
 
 
 ### Recursos:
@@ -80,3 +84,11 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 > [Online]http://www.playsheep.de/drone/ [20/10/2019]
 
 > [Online]https://github.com/dsapandora/ar_drone_wrapper.git [20/10/2019]
+
+> [Online]https://elbauldelprogramador.com/giroscopio-acelerometro-movimientos-android/ [20/10/2019]
+
+> [Online]https://ubunlog.com/android-studio-instalacion-ubuntu/ [20/10/2019]
+
+> [Online]https://linuxize.com/post/how-to-install-flask-on-ubuntu-18-04/ [20/10/2019]
+
+> [Online]https://github.com/SUPENTA/ardrone-sdk-android [20/10/2019]
