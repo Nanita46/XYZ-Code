@@ -46,18 +46,17 @@ La aplicacion consta de dos partes escenciales, la primera es la app instalada e
 
 Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos moviles, ya que tambien puede ser ejecutar en un computador normal.
 
+[![Movimientos del Dron]( <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/XYZMOV.png">)](https://ak1.picdn.net/shutterstock/videos/9350111/preview/stock-footage-drone-yaw-left-right-quadcopter-beginner-guide-learn-to-fly-drones-yaw-rotates-the.mp4)
+
+
+
+
 
 <p align="center"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Camar.png"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/drone.png"></p>
  
 <p align="center"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/Sensor.png"> <img width="300" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/droid.png"></p>
 
 
-
-que la informacion del sensor del gyroscopio del dispositivo mobil sea enviado a un servidor, ese envio de informacion la aplicacion debe estar conectado directo al servidor, durante la fase de prueba usando el android estudio del dispositivo mobil al android estudio luego de eso del servidor la informacion se transfiere al dron mediante el uso de datos del gyroscopio al dron mediante el uso ROS y el dron lo procesaria de acuerdo a las rutinas que hemos practicado con el dron. flask interviene en la transmision de datos del servidor con el dron.
-
-por el momento se registraron los movimientos de mover a la izquierda, derecha, arriba y abajo a futuro se espera agregar mas mensajes como el angulo de inclinacion que tiene o sus giros sobre su propio eje.
-
-la direccion de red  es a la que se le transmite los datos. estos datos son transmitidos a traves del metodo cmdvel que son los que se usan para realizar los movimientos del dron.
 
 
 ### Recursos:
@@ -70,8 +69,17 @@ la direccion de red  es a la que se le transmite los datos. estos datos son tran
 
 ### Whats next?
 ***
+que la informacion del sensor del gyroscopio del dispositivo mobil sea enviado a un servidor, ese envio de informacion la aplicacion debe estar conectado directo al servidor, durante la fase de prueba usando el android estudio del dispositivo mobil al android estudio luego de eso del servidor la informacion se transfiere al dron mediante el uso de datos del gyroscopio al dron mediante el uso ROS y el dron lo procesaria de acuerdo a las rutinas que hemos practicado con el dron. flask interviene en la transmision de datos del servidor con el dron.
+
+por el momento se registraron los movimientos de mover a la izquierda, derecha, arriba y abajo a futuro se espera agregar mas mensajes como el angulo de inclinacion que tiene o sus giros sobre su propio eje.
+
+la direccion de red  es a la que se le transmite los datos. estos datos son transmitidos a traves del metodo cmdvel que son los que se usan para realizar los movimientos del dron.
+
 ### Challenges
 ***
+implementar la aplicacion para que sea posible su uso en cualquier dispositivo.
+desarrollo de codigo a manera que surjan las idea.
+
 ### Reference
 > [Online]https://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_sistema_solar [visited 20/10/2019]
 
