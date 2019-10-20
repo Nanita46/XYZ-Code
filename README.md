@@ -24,7 +24,7 @@ THE CHALLENGE
 </p>
 
 ### ¿Que es XYZ?
-**XYZ** es una aplicacion que le brinda al astronauta, la facilidad para poder pilotear una aeronave no tripulada (drone) desde la comodidad de su celular sin necesidad de poner vidas en riesgos, lo que nos brinda seguridad, control y soporte en la investigacion de los planetas en el universo. Con la ayuda de los sensores que utiliza el dron sera capas de transmitir imagen, video e informacion valiosa de navegacion frente a las adversidades de el clima en la cual estara presente en el desarrollo de la investigación.
+**XYZ** es una aplicacion que le brinda al astronauta, la facilidad para poder pilotar una aeronave no tripulada (drone) desde la comodidad de su celular sin necesidad de poner vidas en riesgos, lo que nos brinda seguridad, control y soporte en la investigacion de los planetas en el universo. Con la ayuda de los sensores que utiliza el dron sera capas de transmitir imagen, video e informacion valiosa de navegacion frente a las adversidades de el clima en la cual estara presente en el desarrollo de la investigación.
 
 El sistema XYZ esta compuesto de diferentes dispositivos:
 - Aplicación mobil.
