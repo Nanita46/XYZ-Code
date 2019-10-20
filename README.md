@@ -12,14 +12,14 @@ THE CHALLENGE
 
 ### Project objective 
 
-<p style="text-align: justify;">Una aplicacion desarrollada en dispositivos moviles para la solucion de misiones no tripuladas en drones, lo cual seran piloteados remotamente a traves de la aplicación.</p>
+<p style="text-align: justify;">An application developed in mobile devices for the solution of unmanned drone missions, which will be remotely piloted through the application.</p>
 
 <p align="center">
   <img width="560" height="300" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
 </p>
 
 ### ¿Que es XYZ?
-**XYZ** es una aplicacion que le brinda al astronauta, la facilidad para poder pilotar una aeronave no tripulada (drone) desde la comodidad de su celular sin necesidad de poner vidas en riesgos, lo que nos brinda seguridad, control y soporte en la investigacion de los planetas en el universo. Con la ayuda de los sensores que utiliza el dron sera capas de transmitir imagen, video e informacion valiosa de navegacion frente a las adversidades de el clima el cual estara presente en el desarrollo de la investigación.
+**XYZ** It is an application that gives the astronaut the facility to fly an unmanned aircraft (drone) from the comfort of his cell phone without putting lives at risk, which gives us security, control and support in the investigation of planets In the universe. With the help of the sensors that the drone uses, it will be able to transmit image, video and valuable navigation information in the face of the adversities of the climate which will be present in the development of the investigation.
 
 ### Proceso de desarrollo:
 
