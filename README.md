@@ -12,14 +12,14 @@ THE CHALLENGE
 
 ### Project objective 
 
-<p style="text-align: justify;">An application developed in mobile devices for the solution of unmanned drone missions, which will be remotely piloted through the application.</p>
+<p style="text-align: justify;">An application developed in mobile devices for the solution of unmanned drone missions, which will be remotely piloted through the application that is multiplatform.</p>
 
 <p align="center">
   <img width="560" height="300" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
 </p>
 
 ### What is XYZ?
-**XYZ** It is an application that gives the astronaut the facility to fly an unmanned aircraft (drone) from the comfort of his cell phone without putting lives at risk, which gives us security, control and support in the investigation of planets In the universe. With the help of the sensors that the drone uses, it will be able to transmit image, video and valuable navigation information in the face of the adversities of the climate which will be present in the development of the investigation.
+**XYZ** It is an application that gives the astronaut the facility to fly an unmanned aircraft (drone) from the comfort of his cell phone, tablet and PC without putting lives at risk, which gives us security, control and support in the investigation of planets In the universe. With the help of the sensors that the drone uses, it will be able to transmit image, video and valuable navigation information in the face of the adversities of the climate which will be present in the development of the investigation.
 
 ### Development:
 
@@ -36,7 +36,7 @@ Crear un controlador para pilotar una nave no tripulada, para ser utilizada desd
 ### Arquitectura:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/diagrama_arquitectura.jpg">
+  <img width="660" height="300" src="https://github.com/Nanita46/XYZ-Code/blob/master/diagrama_arquitectura.jpg">
 </p>
 
 ### Como funciona:
@@ -60,6 +60,7 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 
 ### Reference
 > [Online]https://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_sistema_solar [visited 20/10/2019]
+
 > [Online]https://www.fullstackpython.com/flask.html [20/10/2019]
 
 > [Online]http://wiki.ros.org/roscore [20/10/2019]
