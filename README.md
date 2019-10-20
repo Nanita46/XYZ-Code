@@ -104,3 +104,7 @@ The adaptation of the drone to the different atmospheric conditions of each plan
 > [Online]https://linuxize.com/post/how-to-install-flask-on-ubuntu-18-04/ [20/10/2019]
 
 > [Online]https://github.com/SUPENTA/ardrone-sdk-android [20/10/2019]
+
+> [Online]https://shemesh.larc.nasa.gov/fm/ICAROUS/ [20/10/2019]
+
+> [Online]https://software.nasa.gov/data_and_image_processing[20/10/2019]
