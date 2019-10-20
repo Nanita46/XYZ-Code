@@ -12,7 +12,7 @@ THE CHALLENGE
 
 ### Objetivos
 
-<p style="text-align: justify;">Una aplicacion desarrollada en dispositivos mobiles para la solucion de misiones no tripuladas en drones, lo cual seran piloteados remotamente a traves de la aplicación.</p>
+<p style="text-align: justify;">Una aplicacion desarrollada en dispositivos moviles para la solucion de misiones no tripuladas en drones, lo cual seran piloteados remotamente a traves de la aplicación.</p>
 
 ### Objetivos Especificos
 
