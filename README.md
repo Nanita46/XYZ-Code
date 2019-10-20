@@ -6,7 +6,7 @@ THE CHALLENGE
 > Create an app to pilot an unmanned aerial system (UAS), such as a NASA space drone, utilizing the 6-axis gyro sensor within a smartphone or tablet. The piloting app can be combined with multiple sensors for flight precision and the best maneuverable flight techniques for off-Earth planetary drones.
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/xyz-icon-20.jpg">
+<img width="200" height="200" src="https://github.com/Nanita46/XYZ-Code/blob/master/xyz-icon-20.jpg"><img width="400" height="200" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
 </p>
 
 
@@ -15,7 +15,7 @@ THE CHALLENGE
 <p style="text-align: justify;">An application developed in mobile devices for the solution of unmanned drone missions, which will be remotely piloted through the application that is multiplatform.</p>
 
 <p align="center">
-  <img width="560" height="300" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
+  
 </p>
 
 ### What is XYZ?
@@ -55,7 +55,7 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 
 que la informacion del sensor del gyroscopio del dispositivo mobil sea enviado a un servidor, ese envio de informacion la aplicacion debe estar conectado directo al servidor, durante la fase de prueba usando el android estudio del dispositivo mobil al android estudio luego de eso del servidor la informacion se transfiere al dron mediante el uso de datos del gyroscopio al dron mediante el uso ROS y el dron lo procesaria de acuerdo a las rutinas que hemos practicado con el dron. flask interviene en la transmision de datos del servidor con el dron.
 
-por el momento se registraron los movimientos de mover a la izquierda, derecha, arriba y abajo a futuro se espera agregar mas mensajes como el pitcheo que tiene o sus giros sobre su propio eje.
+por el momento se registraron los movimientos de mover a la izquierda, derecha, arriba y abajo a futuro se espera agregar mas mensajes como el angulo de inclinacion que tiene o sus giros sobre su propio eje.
 
 la direccion de red  es a la que se le transmite los datos. estos datos son transmitidos a traves del metodo cmdvel que son los que se usan para realizar los movimientos del dron.
 
