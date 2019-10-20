@@ -61,7 +61,9 @@ Cabe resaltar que dicha aplicacion no se limita unicamente a dispositivos movile
 ### Reference
 > [Online]https://es.wikipedia.org/wiki/Anexo:Datos_de_los_planetas_del_sistema_solar[visited 20/10/2019]
 > [Online]https://www.fullstackpython.com/flask.html[20/10/2019]
+
 > [Online]http://wiki.ros.org/roscore[20/10/2019]
 > [Online]https://developer.android.com/studio[20/10/2019]
+
 > [Online]http://www.playsheep.de/drone/[20/10/2019]
 > [Online]https://github.com/dsapandora/ar_drone_wrapper.git[20/10/2019]
