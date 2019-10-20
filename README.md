@@ -27,5 +27,3 @@ El sistema XYZ esta compuesto de diferentes dispositivos:
 - Red LoRAWAN
 - Dron
 
-In view of the lack of knowledge on the side effects of Mars’s atmospheric and gravitational conditions over astronauts’ bodies, it is of vital importance to collect and analyze data on certain biological parameters. These data will help humanity settle safely on Mars’s surface and expand their colonization while minimizing risk.
-
