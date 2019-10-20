@@ -34,6 +34,10 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private TextView mAccy;
     private TextView mAccz;
 
+    public String move_x;
+    public String move_y;
+    public String move_z;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -84,20 +88,73 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 //mGyroz.setText(R.string.act_main_no_acuracy);
                 mGyrox.setText("fadgdsfasd");
                 mGyroy.setText("sdfgadfdsfa");
-                mGyroy.setText("gfhdfghdf");
+                mGyroz.setText("gfhdfghdf");
             }
             return;
         }
 
         if (event.sensor.getType() == Sensor.TYPE_ACCELEROMETER) {
-            mAccx.setText("acelerador x = " + Float.toString(event.values[0]));
-            mAccy.setText("acelerador y = " + Float.toString(event.values[1]));
-            mAccz.setText("acelerador z = " + Float.toString(event.values[2]));
+            if ((event.values[0])>0){
+                move_x = "derecha";
+            }
+            else {
+                move_x= "izquierda";}
+            //mAccx.setText("acelerador x = " + Float.toString(event.values[0]));
+
+            mAccx.setText("acelerador x = " + move_x);
+
+
+            if ((event.values[1])<0){
+                move_y = "adelante";
+            }
+            else {
+                move_y= "atras";}
+            mAccy.setText("acelerador y = " + move_y);
+
+            if ((event.values[2])>0){
+                move_z = "arriba";
+            }
+            else {
+                move_z= "abajo";}
+            mAccz.setText("acelerador z = " + move_z);
+
+            // mAccy.setText("acelerador y = " + Float.toString(event.values[1]));
+
+
+            //mAccz.setText("acelerador z = " + Float.toString(event.values[2]));
             detectShake(event);
-        } else if (event.sensor.getType() == Sensor.TYPE_GYROSCOPE) {
-            mGyrox.setText("giroscopio x = " + Float.toString(event.values[0]));
-            mGyroy.setText("giroscopio y = " + Float.toString(event.values[1]));
-            mGyroz.setText("giroscopio z = " + Float.toString(event.values[2]));
+
+        }
+
+        else if (event.sensor.getType() == Sensor.TYPE_GYROSCOPE) {
+            if ((event.values[0])>0){
+                move_x = "derecha";
+            }
+            else {
+                move_x= "izquierda";}
+            mGyrox.setText("giroscopio x = " + move_x);
+           // mGyrox.setText("giroscopio x = " + Float.toString(event.values[0]));
+
+            if ((event.values[1])<0){
+                move_y = "adelante";
+            }
+            else {
+                move_y= "atras";}
+            mGyroy.setText("giroscopio y = " + move_y);
+            //mGyroy.setText("giroscopio y = " + Float.toString(event.values[1]));
+
+            if ((event.values[2])>0){
+                move_z = "arriba";
+            }
+            else {
+                move_z= "abajo";}
+            mGyroz.setText("giroscopio z = " + move_z);
+
+
+            //mGyrox.setText("giroscopio x = " + Float.toString(event.values[0]));
+            //mGyroy.setText("giroscopio y = " + Float.toString(event.values[1]));
+            //mGyroz.setText("giroscopio z = " + Float.toString(event.values[2]));
+
             detectRotation(event);
         }
 
