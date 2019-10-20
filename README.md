@@ -16,7 +16,7 @@ THE CHALLENGE
 una aplicacion desarrollada en dispositivos mobiles para la solucion de misiones no tripuladas en drones, lo cual seran piloteados remotamente a traves de la aplicación.
 
 <p align="center">
-  <img width="460" height="300" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
+  <img width="560" height="300" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png">
 </p>
 
 
